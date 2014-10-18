@@ -3,5 +3,5 @@ require 'bundler'
 
 Bundler.require
 
-require './ffviz'
+require './app'
 run Sinatra::Application
